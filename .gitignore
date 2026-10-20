@@ -1,0 +1,32 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Test results
+TestResults/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# ASP.NET development certificates
+*.pfx
+
+# Local configuration and secrets
+appsettings.Local.json
+appsettings.*.Local.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
